@@ -2915,14 +2915,14 @@ fieldset:disabled a.btn {
 
 .btn-primary {
     color: #fff;
-    background-color: #007bff;
-    border-color: #007bff
+    background-color: #215083;
+    border-color: #215083
 }
 
 .btn-primary:hover {
     color: #fff;
-    background-color: #0069d9;
-    border-color: #0062cc
+    background-color: #5097e4;
+    border-color: #5097e4
 }
 
 .btn-primary.focus,

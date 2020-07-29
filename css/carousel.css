@@ -3,7 +3,7 @@
 /* Padding below the footer and lighter body text */
 
 .site-header {
-  background-color: rgba(14, 206, 148, 0.85);
+  background-color: rgba(59, 113, 151, 0.925);
   -webkit-backdrop-filter: saturate(180%) blur(50px);
   backdrop-filter: saturate(180%) blur(50px);
 }
